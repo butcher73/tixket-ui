@@ -1,3 +1,4 @@
+'use client';
 import { Auth } from '@supabase/auth-ui-react';
 import { supabase } from '@/lib/supabaseClient';
 import { ThemeSupa } from '@supabase/auth-ui-shared';
